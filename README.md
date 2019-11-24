@@ -1,0 +1,2 @@
+# zairyu
+OCR Zairyu Card
